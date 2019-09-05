@@ -158,6 +158,28 @@
   background-color: #467370 !important;
 }
 
+.skill-section {
+  padding: 5rem 0 ;
+}
+
+.skill-section .card {
+  border: 0;
+  border-bottom: 0.25rem solid #64a19d;
+}
+
+.skill-section .card h4 {
+  font-size: 0.8rem;
+  font-family: 'Varela Round';
+  text-transform: uppercase;
+  letter-spacing: 0.15rem;
+}
+
+.skill-section .card hr {
+  border-color: #64a19d;
+  border-width: 0.25rem;
+  width: 3rem;
+}
+
 .about-section {
   padding-top: 10rem;
   background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
