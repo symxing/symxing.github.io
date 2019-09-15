@@ -224,6 +224,12 @@
   } 
 }
 
+@media (max-width: 960px) and (min-width: 768px) {
+  .contact-card {
+    margin-left: 75px;
+  }
+}
+
 
 .contact-section {
   padding: 5rem 0 0;
